@@ -1,0 +1,21 @@
+.payment{
+    background-color: white;
+    padding-left: 15px;
+    
+}
+
+.payment_container{
+    
+}
+.payment_section {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    
+}
+.payment_item{
+    margin-left: 50px;
+}
+.payment_details {
+    margin-top: 20px;
+    flex: 0.8;
+}
